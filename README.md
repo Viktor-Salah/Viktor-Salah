@@ -1,4 +1,4 @@
-Hi I'm Viktor (Sina) Salah,
+Hi I'm Lock,
 
 I'm a student who has interests in coding art and chemistry. I don't have much experience, 
 but I am currently working on a couple projects. I have a passion project of creating a database of
